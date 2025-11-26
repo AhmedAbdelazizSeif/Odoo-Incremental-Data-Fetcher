@@ -1,6 +1,6 @@
 # 📚 Documentation Index
 
-Welcome to the Odoo ETL Project documentation! This index will guide you through all available documentation.
+Welcome to the Odoo Incremental Data Fetcher documentation! This index will guide you through all available documentation.
 
 ## 🚀 Getting Started
 

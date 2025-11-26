@@ -1,4 +1,4 @@
-# Project Refactoring Summary
+# Odoo Incremental Data Fetcher - Refactoring Summary
 
 ## 🎯 What Was Accomplished
 

@@ -1,4 +1,4 @@
-# Odoo ETL Project - Development Notes
+# Odoo Incremental Data Fetcher - Development Notes
 
 ## Database Schema Requirements
 

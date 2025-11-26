@@ -1,10 +1,10 @@
-# Odoo ETL Quick Reference
+# Odoo Incremental Data Fetcher - Quick Reference
 
 ## Installation & Setup
 
 ```bash
 # Clone or navigate to project
-cd odoo_etl_project
+cd Odoo-Incremental-Data-Fetcher
 
 # Create virtual environment
 python -m venv venv

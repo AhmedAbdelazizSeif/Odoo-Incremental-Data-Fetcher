@@ -1,7 +1,7 @@
-# Odoo ETL Project - Complete File Structure
+# Odoo Incremental Data Fetcher - Complete File Structure
 
 ```
-odoo_etl_project/
+Odoo-Incremental-Data-Fetcher/
 │
 ├── README.md                          # Main documentation
 ├── DEVELOPMENT.md                     # Development guide
