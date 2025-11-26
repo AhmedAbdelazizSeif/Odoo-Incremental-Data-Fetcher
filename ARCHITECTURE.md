@@ -1,4 +1,4 @@
-# Odoo ETL Project - Architecture Diagram
+# Odoo Incremental Data Fetcher - Architecture Diagram
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐

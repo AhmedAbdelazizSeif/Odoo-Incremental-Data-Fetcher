@@ -78,7 +78,7 @@ def check_dependencies():
 def main():
     """Main setup routine."""
     print("=" * 60)
-    print("Odoo ETL Project - Setup")
+    print("Odoo Incremental Data Fetcher - Setup")
     print("=" * 60)
     print()
     

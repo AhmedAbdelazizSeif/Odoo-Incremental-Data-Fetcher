@@ -1,4 +1,4 @@
-# Odoo ETL Pipeline
+# Odoo Incremental Data Fetcher
 
 A modular and production-ready ETL (Extract, Transform, Load) pipeline for synchronizing data from Odoo ERP to PostgreSQL database. This project provides a clean, maintainable architecture with separate modules for data extraction, transformation, and loading.
 
@@ -16,7 +16,7 @@ A modular and production-ready ETL (Extract, Transform, Load) pipeline for synch
 ## 📁 Project Structure
 
 ```
-odoo_etl_project/
+Odoo-Incremental-Data-Fetcher/
 │
 ├── odoo_client/              # Odoo XML-RPC client library
 │   ├── __init__.py
@@ -81,7 +81,9 @@ odoo_etl_project/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd odoo_etl_project
+   ```bash
+# Clone or navigate to project
+cd Odoo-Incremental-Data-Fetcher
    ```
 
 2. **Create virtual environment**
