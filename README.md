@@ -80,8 +80,10 @@ Odoo-Incremental-Data-Fetcher/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   ```bash
+   git clone https://github.com/AhmedAbdelazizSeif/Odoo-Incremental-Data-Fetcher
+```
+   
+```bash
 # Clone or navigate to project
 cd Odoo-Incremental-Data-Fetcher
    ```
