@@ -79,11 +79,9 @@ Odoo-Incremental-Data-Fetcher/
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/AhmedAbdelazizSeif/Odoo-Incremental-Data-Fetcher
-```
-   
 ```bash
+git clone https://github.com/AhmedAbdelazizSeif/Odoo-Incremental-Data-Fetcher
+
 # Clone or navigate to project
 cd Odoo-Incremental-Data-Fetcher
    ```
