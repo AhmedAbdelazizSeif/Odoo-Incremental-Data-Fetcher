@@ -18,7 +18,7 @@ class OdooConnection:
         Initialize Odoo connection.
         
         Args:
-            url: Base URL of Odoo instance (e.g., 'https://erp.knozelhekma.com')
+            url: Base URL of Odoo instance (e.g., 'https://your-odoo-instance.example.com')
             database: Database name
             username: Username for authentication
             password: Password for authentication
