@@ -7,9 +7,9 @@ from odoo_client import OdooAPI, DomainBuilder
 
 # Initialize API
 api = OdooAPI(
-    url='https://erp.knozelhekma.com',
-    database='KnozElHekmaProduction',
-    username='data.analysis@knozelhekma.com',
+    url='https://your-odoo-instance.example.com',
+    database='your_database',
+    username='your_username',
     password='your_password'  # Replace with actual password
 )
 
